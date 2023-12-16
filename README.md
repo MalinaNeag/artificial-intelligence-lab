@@ -1,4 +1,4 @@
-# Artificial Inteligence Fundamentals Laboratory
+# 🤖 Artificial Inteligence Fundamentals Laboratory
 This is a Python-based laboratory on Artificial Intelligence for university, featuring theoretical concepts and tested solutions.
 
 ## MIT OpenCourseWare (OCW) Reference
